@@ -8,7 +8,7 @@ Padri is here, a Mobile App Developer living and working in South Jakarta.
 
 ## 😁 About Me
 - 🐬 Mobile App Developer guy who interested in Programming and UI/UX Design
-- 📚 I’m currently studying Infromatics Engineering at NIIT I-Tech
+- 📚 I’m currently studying Informatics Engineering at NIIT I-Tech
 - 👔 New member of Digital Agency in South Jakarta
 - 💻 Been working on my new personal website
 - 🎮 Mobile Gamer and 🏕 Hiking
